@@ -1,0 +1,5 @@
+var shows = ["Seinfeld", "Scooby Doo", "Spongebob Squarepants", "Dragon Ball Z", "Regular Show"] 
+text = "My Favorite show is"; 
+shows.forEach("Seinfeld");
+text += "My Favorite show is"
+function "My Favorite show is"(Seinfeld) 
